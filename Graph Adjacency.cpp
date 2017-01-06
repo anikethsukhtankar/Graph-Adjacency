@@ -2,7 +2,7 @@
 //  Project2P1.cpp
 //  Graphs
 //
-//  Created by Shailee Desai on November 11, 2016.
+//  Created by Aniketh Sukhtankar on November 11, 2016.
 //  Program to implement a graph data structure using an adjacency list
 //  Implements a Graph class.
 //**************************************************************
